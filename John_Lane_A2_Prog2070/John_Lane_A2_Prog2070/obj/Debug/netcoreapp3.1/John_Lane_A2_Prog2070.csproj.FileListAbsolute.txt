@@ -1,0 +1,11 @@
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.exe
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.deps.json
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.runtimeconfig.json
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.runtimeconfig.dev.json
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.dll
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\bin\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.pdb
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\obj\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.csprojAssemblyReference.cache
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\obj\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.AssemblyInfoInputs.cache
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\obj\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.AssemblyInfo.cs
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\obj\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.dll
+C:\prog2070\A2\prog2070assignment2\John_Lane_A2_Prog2070\John_Lane_A2_Prog2070\obj\Debug\netcoreapp3.1\John_Lane_A2_Prog2070.pdb

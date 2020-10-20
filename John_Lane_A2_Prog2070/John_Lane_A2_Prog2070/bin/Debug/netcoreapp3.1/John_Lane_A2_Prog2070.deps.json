@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "John_Lane_A2_Prog2070/1.0.0": {
+        "runtime": {
+          "John_Lane_A2_Prog2070.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "John_Lane_A2_Prog2070/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
